@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp524uclhtuo95ht91c0",
+  "parentID": "mig_cp523bc2a0mp8q8v1b1g",
+  "checksum": "1:1be3446c0d0382c97067aa1dbb6e80d293aae9bc994559cffdc1354f89e2aac3",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "indices",
+          "type": "string"
+        },
+        "table": "indices"
+      }
+    }
+  ]
+}

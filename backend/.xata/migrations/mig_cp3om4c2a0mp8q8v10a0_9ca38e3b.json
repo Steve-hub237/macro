@@ -1,0 +1,19 @@
+{
+  "id": "mig_cp3om4c2a0mp8q8v10a0",
+  "parentID": "mig_cp3oluc2a0mp8q8v1090",
+  "checksum": "1:9ca38e3b94da7d730a64ed09b44227a57c5ab75ffaca8d06ba687f76caa08e89",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "country",
+          "type": "link",
+          "link": {
+            "table": "countries"
+          }
+        },
+        "table": "bond_values"
+      }
+    }
+  ]
+}

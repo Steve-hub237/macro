@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp525dklhtuo95ht91fg",
+  "parentID": "mig_cp525bclhtuo95ht91eg",
+  "checksum": "1:e2500f72d544d7bcb6a094a80c45796a3bdfd8d24e335eb002ece063f4d16eb2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "prev",
+          "type": "float"
+        },
+        "table": "indices_values"
+      }
+    }
+  ]
+}

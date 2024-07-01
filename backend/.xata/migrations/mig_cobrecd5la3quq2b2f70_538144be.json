@@ -1,0 +1,14 @@
+{
+  "id": "mig_cobrecd5la3quq2b2f70",
+  "parentID": "mig_cobre855la3quq2b2f60",
+  "checksum": "1:538144beef5c4ea15b011fc8f0a4f5480dc0c885d5f59f1fb68fa0d84104106a",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "countryId",
+        "oldName": "country",
+        "table": "Data"
+      }
+    }
+  ]
+}

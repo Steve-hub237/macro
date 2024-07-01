@@ -1,0 +1,12 @@
+{
+  "id": "mig_cobqi6t5la3quq2b221g",
+  "parentID": "mig_cobqi4hj860bgmlk79sg",
+  "checksum": "1:6986cbf20480d7c830d8af56f541887cc4e418cac49b81ae86b21ad76e6f1a32",
+  "operations": [
+    {
+      "addTable": {
+        "table": "Data"
+      }
+    }
+  ]
+}

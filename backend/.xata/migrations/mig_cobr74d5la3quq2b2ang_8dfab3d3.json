@@ -1,0 +1,19 @@
+{
+  "id": "mig_cobr74d5la3quq2b2ang",
+  "parentID": "mig_cobr6u9j860bgmlk7f0g",
+  "checksum": "1:8dfab3d3b83f31426a05c8e89bac78aa08c87f855883c119a109f746bd94e104",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "indicators",
+          "type": "link",
+          "link": {
+            "table": "Indicators"
+          }
+        },
+        "table": "Data"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_cokas1olgn9h3knors40",
+  "parentID": "mig_coihjos6btciiaoq8ja0",
+  "checksum": "1:3329d77d17c872edd860c2f279c0cfd37eee7b48e8e4631f8940540f95db3fd6",
+  "operations": [
+    {
+      "addTable": {
+        "table": "Retail"
+      }
+    }
+  ]
+}

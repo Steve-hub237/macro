@@ -1,0 +1,12 @@
+{
+  "id": "mig_cokb5bgp191p4fko8s1g",
+  "parentID": "mig_cokb50t5hs2t7tjg8860",
+  "checksum": "1:1f52f3e58444d49edab613d4e058f4e3be58e034b7011b973a28f47fc7db2162",
+  "operations": [
+    {
+      "addTable": {
+        "table": "Score"
+      }
+    }
+  ]
+}

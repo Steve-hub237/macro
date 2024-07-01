@@ -1,0 +1,14 @@
+{
+  "id": "mig_cobre855la3quq2b2f60",
+  "parentID": "mig_cobrcqsphnk6ug6d87t0",
+  "checksum": "1:ad574a7509ce81b29313895828b14adf54b460ff565adc7ba897ef8328d15b43",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "indicatorsId",
+        "oldName": "indicators",
+        "table": "Data"
+      }
+    }
+  ]
+}

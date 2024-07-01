@@ -1,0 +1,16 @@
+{
+  "id": "mig_coihgvs6btciiaoq8j6g",
+  "parentID": "mig_coihfhpi8ag8nohmg6k0",
+  "checksum": "1:9958452ba315ee061c1f29ee2542bb1023841e7bb4ba1ac856fa2e8b77ea865b",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Long",
+          "type": "int"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

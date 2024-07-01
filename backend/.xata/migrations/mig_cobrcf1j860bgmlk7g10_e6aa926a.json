@@ -1,0 +1,16 @@
+{
+  "id": "mig_cobrcf1j860bgmlk7g10",
+  "parentID": "mig_cobrcbkphnk6ug6d87d0",
+  "checksum": "1:e6aa926a640702fd8ff315a3aae9ba3365934b1546b5e197b03a1c843724864a",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "PreviousValue",
+          "type": "float"
+        },
+        "table": "Data"
+      }
+    }
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mig_cokh9ad5hs2t7tjg8jn0",
+  "parentID": "mig_cokh94gp191p4fko99dg",
+  "checksum": "1:088cbd4ecdd80ed3768029f6baa06176643252d6cdd3537405c95a4fd585ce0e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Month",
+          "type": "link",
+          "link": {
+            "table": "Calendar"
+          }
+        },
+        "table": "Seasonality"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp3pvks2a0mp8q8v1120",
+  "parentID": "mig_cp3pvhc2a0mp8q8v1110",
+  "checksum": "1:f9dd3c2a5542df9f7cdf7677e822bd51fc2da47bd4fcd2b173dd73c4d1f63c2d",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "prev",
+          "type": "float"
+        },
+        "table": "bond_values"
+      }
+    }
+  ]
+}

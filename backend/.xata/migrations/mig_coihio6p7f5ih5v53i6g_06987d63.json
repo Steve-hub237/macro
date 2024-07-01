@@ -1,0 +1,16 @@
+{
+  "id": "mig_coihio6p7f5ih5v53i6g",
+  "parentID": "mig_coihi71i8ag8nohmg6qg",
+  "checksum": "1:06987d63ded1b69580b9b3714d77a13652be17a026e508a6f284a25d6d63cc12",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "PercentShort",
+          "type": "float"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

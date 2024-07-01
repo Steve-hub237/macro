@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp3ok2k2a0mp8q8v1000",
+  "parentID": "mig_cp3ojo42a0mp8q8v0vv0",
+  "checksum": "1:0fcbcb02fb2f9a8f6cac038d3728192598685ba577258047b6d9bee62aaf721e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "yield",
+          "type": "float"
+        },
+        "table": "bond_values"
+      }
+    }
+  ]
+}

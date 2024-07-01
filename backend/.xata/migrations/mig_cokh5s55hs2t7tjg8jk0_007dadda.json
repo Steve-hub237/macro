@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokh5s55hs2t7tjg8jk0",
+  "parentID": "mig_cokh5ec793ns24ur20i0",
+  "checksum": "1:007dadda602977a19e9069f5304d4b757bc1083b26bb495532620c0e6b1d05c3",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Month",
+          "type": "text"
+        },
+        "table": "Calendar"
+      }
+    }
+  ]
+}

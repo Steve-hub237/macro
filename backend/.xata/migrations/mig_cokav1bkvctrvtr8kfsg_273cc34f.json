@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokav1bkvctrvtr8kfsg",
+  "parentID": "mig_cokasbolgn9h3knors5g",
+  "checksum": "1:273cc34f9a0e16a2f959e4f09963698a6e70b4a65688abb62c43c9b2c271772f",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Pair",
+          "type": "text"
+        },
+        "table": "Pair"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp909dgl703neuhj6kk0",
+  "parentID": "mig_cp525lklhtuo95ht91hg",
+  "checksum": "1:aee5bdfd9ef0e62dec11dbe75bb662690eee50e7481cfa4d2882037a515a3dba",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "revised",
+          "type": "float"
+        },
+        "table": "data"
+      }
+    }
+  ]
+}

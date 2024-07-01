@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokb4s0p191p4fko8rug",
+  "parentID": "mig_cokb4ngp191p4fko8rtg",
+  "checksum": "1:ef1bd8c20f00aca560733d0f42a44b05ba92ba9caea9a501e116eddc1a531b09",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "shortPercentage",
+          "type": "int"
+        },
+        "table": "Retail"
+      }
+    }
+  ]
+}

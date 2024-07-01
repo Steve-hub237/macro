@@ -1,0 +1,12 @@
+{
+  "id": "mig_cobqcq1j860bgmlk79pg",
+  "parentID": "mig_coa02irbn5l1pu2m7mi0",
+  "checksum": "1:f94f8d4c8d0238b7a8d8394579f915f42ca6040b510344cb8467b03085b8a7b5",
+  "operations": [
+    {
+      "removeTable": {
+        "table": "GDP"
+      }
+    }
+  ]
+}

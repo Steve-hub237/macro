@@ -1,0 +1,19 @@
+{
+  "id": "mig_cp525lklhtuo95ht91hg",
+  "parentID": "mig_cp525gclhtuo95ht91gg",
+  "checksum": "1:d7fbe4955feee2f5a03db30960331e15a4d806ca4c2a44d7ec2bd7d70777fa07",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "indices",
+          "type": "link",
+          "link": {
+            "table": "indices"
+          }
+        },
+        "table": "indices_values"
+      }
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "id": "mig_cp3odrs2a0mp8q8v0vqg",
+  "parentID": "mig_cokhe6s793ns24ur20kg",
+  "checksum": "1:b73904a889f386c12c5a96a4aff0eaec3c9bf2dcd968b4e0f13327c267ee5a17",
+  "operations": [
+    {
+      "addTable": {
+        "table": "bond"
+      }
+    }
+  ]
+}

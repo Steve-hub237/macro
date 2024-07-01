@@ -1,0 +1,16 @@
+{
+  "id": "mig_cobqe955la3quq2b21ug",
+  "parentID": "mig_cobqdrkphnk6ug6d82hg",
+  "checksum": "1:da0b95e0f24910bba8a6bb1fa89b989bba0cf9200de0b00aa03c1cf208e37086",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Code",
+          "type": "string"
+        },
+        "table": "Countries"
+      }
+    }
+  ]
+}

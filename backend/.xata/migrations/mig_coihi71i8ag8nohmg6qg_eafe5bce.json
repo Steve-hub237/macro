@@ -1,0 +1,16 @@
+{
+  "id": "mig_coihi71i8ag8nohmg6qg",
+  "parentID": "mig_coihhts6btciiaoq8j7g",
+  "checksum": "1:eafe5bce5339d2a9ea18b39b1c47ae7cb6e585a037c2fb3b781a5bec7e074af2",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "PercentLong",
+          "type": "float"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

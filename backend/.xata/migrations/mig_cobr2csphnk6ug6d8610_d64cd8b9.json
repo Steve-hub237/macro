@@ -1,0 +1,13 @@
+{
+  "id": "mig_cobr2csphnk6ug6d8610",
+  "parentID": "mig_cobr1h9j860bgmlk7eig",
+  "checksum": "1:d64cd8b982aa4556407ff26898338c3894bb07fe0df2abce1843ec14d3bd923c",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "CountryId",
+        "table": "Data"
+      }
+    }
+  ]
+}

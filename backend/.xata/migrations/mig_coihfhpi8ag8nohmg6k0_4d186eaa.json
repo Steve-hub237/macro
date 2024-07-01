@@ -1,0 +1,18 @@
+{
+  "id": "mig_coihfhpi8ag8nohmg6k0",
+  "parentID": "mig_coihf7k6btciiaoq8j5g",
+  "checksum": "1:4d186eaafe30d7dddef308779865d17e8a96f34d2a51c576d451c6b2905c2c00",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Date",
+          "type": "datetime",
+          "notNull": true,
+          "defaultValue": "now"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

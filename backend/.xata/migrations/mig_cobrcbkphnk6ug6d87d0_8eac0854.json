@@ -1,0 +1,13 @@
+{
+  "id": "mig_cobrcbkphnk6ug6d87d0",
+  "parentID": "mig_cobrbg9j860bgmlk7fi0",
+  "checksum": "1:8eac0854cfb78896f31d06f446234b92836fbf37c786e03bcca5aba1d0e30507",
+  "operations": [
+    {
+      "removeColumn": {
+        "column": "PreviousValue",
+        "table": "Data"
+      }
+    }
+  ]
+}

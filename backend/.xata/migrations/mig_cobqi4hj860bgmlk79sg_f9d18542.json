@@ -1,0 +1,13 @@
+{
+  "id": "mig_cobqi4hj860bgmlk79sg",
+  "parentID": "mig_cobqhv4phnk6ug6d82k0",
+  "checksum": "1:f9d185427ae225cea70b4519ef3254b38ec28128a57e05d2cc349f2dacc332fb",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "Indicators",
+        "oldName": "ECONOMIC"
+      }
+    }
+  ]
+}

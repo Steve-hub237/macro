@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp525bclhtuo95ht91eg",
+  "parentID": "mig_cp524uclhtuo95ht91c0",
+  "checksum": "1:313342cae6c8d7b7e26fa2274b0e8c743b14df8e9632ef47814e0a7504ff1dd7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "yield",
+          "type": "float"
+        },
+        "table": "indices_values"
+      }
+    }
+  ]
+}

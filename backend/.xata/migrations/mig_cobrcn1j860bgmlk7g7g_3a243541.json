@@ -1,0 +1,16 @@
+{
+  "id": "mig_cobrcn1j860bgmlk7g7g",
+  "parentID": "mig_cobrcf1j860bgmlk7g10",
+  "checksum": "1:3a243541a8b0c0dea319dae71bd2d54a014071e17b1a562d2a86b2a9c13371b4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ForecastValue",
+          "type": "float"
+        },
+        "table": "Data"
+      }
+    }
+  ]
+}

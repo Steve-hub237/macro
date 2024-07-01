@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp3og1klhtuo95ht8nig",
+  "parentID": "mig_cp3odrs2a0mp8q8v0vqg",
+  "checksum": "1:7fb1b41d7409dbf2285eda38372641b8ba71a0635ddaf954fc763c7e34217cd5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "bond",
+          "type": "text"
+        },
+        "table": "bond"
+      }
+    }
+  ]
+}

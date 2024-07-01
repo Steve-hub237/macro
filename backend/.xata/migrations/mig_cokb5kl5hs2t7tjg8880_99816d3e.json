@@ -1,0 +1,14 @@
+{
+  "id": "mig_cokb5kl5hs2t7tjg8880",
+  "parentID": "mig_cokb5il5hs2t7tjg8870",
+  "checksum": "1:99816d3eb3ea348b001b99ea83a12ed91ad16c6562f520e842b06afcb18933c0",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "date",
+        "oldName": "Date",
+        "table": "Score"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mig_cokh5as793ns24ur20gg",
+  "parentID": "mig_cokh57d5hs2t7tjg8jj0",
+  "checksum": "1:3a4183c30517154ae3f13615bd3da8f410f02b2b2c73345eabc9ea0c5c5fed6b",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "Calendar",
+        "oldName": "calendar"
+      }
+    }
+  ]
+}

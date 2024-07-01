@@ -1,0 +1,19 @@
+{
+  "id": "mig_cokb50t5hs2t7tjg8860",
+  "parentID": "mig_cokb4s0p191p4fko8rug",
+  "checksum": "1:1f3f221868c5cd55c631ebcea79df045c28b1de127f1e7decdbb4d0eacb3dfdc",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Pair",
+          "type": "link",
+          "link": {
+            "table": "Pair"
+          }
+        },
+        "table": "Retail"
+      }
+    }
+  ]
+}

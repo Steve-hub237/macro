@@ -1,0 +1,16 @@
+{
+  "id": "mig_cobr6j1j860bgmlk7eug",
+  "parentID": "mig_cobr2csphnk6ug6d8610",
+  "checksum": "1:e5be9bfc428eef66a4e883da9d7e2ce03887a00cd6e90e69239afd98ee4cee56",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Date",
+          "type": "datetime"
+        },
+        "table": "Data"
+      }
+    }
+  ]
+}

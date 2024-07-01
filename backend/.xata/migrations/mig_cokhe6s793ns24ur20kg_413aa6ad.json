@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokhe6s793ns24ur20kg",
+  "parentID": "mig_cokhe4gp191p4fko99eg",
+  "checksum": "1:413aa6ade65a091ec38e5317a2c2e247334ed8bdcdc85d62986212b6ecf2bbd5",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "value",
+          "type": "float"
+        },
+        "table": "Seasonality"
+      }
+    }
+  ]
+}

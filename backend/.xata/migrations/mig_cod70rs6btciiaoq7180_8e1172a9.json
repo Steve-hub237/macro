@@ -1,0 +1,14 @@
+{
+  "id": "mig_cod70rs6btciiaoq7180",
+  "parentID": "mig_cod70p46btciiaoq7170",
+  "checksum": "1:8e1172a9cac67e8db66a5310b86910e4350f3754f410d052b23d83b4099b2964",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "forecast",
+        "oldName": "ForecastValue",
+        "table": "data"
+      }
+    }
+  ]
+}

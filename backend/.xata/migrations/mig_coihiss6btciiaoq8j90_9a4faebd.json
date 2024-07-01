@@ -1,0 +1,16 @@
+{
+  "id": "mig_coihiss6btciiaoq8j90",
+  "parentID": "mig_coihio6p7f5ih5v53i6g",
+  "checksum": "1:9a4faebdc9e45cd4db6e21fa8cb68873e585dd481bbeae9ca6693d8b7ea96258",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "NetPosition",
+          "type": "int"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

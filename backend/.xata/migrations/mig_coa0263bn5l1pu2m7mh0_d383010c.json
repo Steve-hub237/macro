@@ -1,0 +1,11 @@
+{
+  "id": "mig_coa0263bn5l1pu2m7mh0",
+  "checksum": "1:d383010c62755af47f4673d0d65148bd96ec31950cea8c3f57e7ab9b7d9eeb48",
+  "operations": [
+    {
+      "addTable": {
+        "table": "GDP"
+      }
+    }
+  ]
+}

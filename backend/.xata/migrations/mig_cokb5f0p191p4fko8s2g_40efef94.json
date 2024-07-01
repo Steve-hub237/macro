@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokb5f0p191p4fko8s2g",
+  "parentID": "mig_cokb5bgp191p4fko8s1g",
+  "checksum": "1:40efef94add8c4e672720d7a84380160eccbf65656b96926ea2483d491c9528e",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Date",
+          "type": "datetime"
+        },
+        "table": "Score"
+      }
+    }
+  ]
+}

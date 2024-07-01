@@ -1,0 +1,14 @@
+{
+  "id": "mig_cod70ts6btciiaoq7190",
+  "parentID": "mig_cod70rs6btciiaoq7180",
+  "checksum": "1:0e1c18d7d631a34f7689ba893f623f015896c890c47f08d1bf384d8438f87988",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "actual",
+        "oldName": "ActualValue",
+        "table": "data"
+      }
+    }
+  ]
+}

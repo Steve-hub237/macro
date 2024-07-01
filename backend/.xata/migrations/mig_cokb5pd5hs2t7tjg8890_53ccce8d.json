@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokb5pd5hs2t7tjg8890",
+  "parentID": "mig_cokb5kl5hs2t7tjg8880",
+  "checksum": "1:53ccce8d52e0f1888c4122b13c7c685f5f0bd4be69effd9bac271d704fd404b4",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "score",
+          "type": "int"
+        },
+        "table": "Score"
+      }
+    }
+  ]
+}

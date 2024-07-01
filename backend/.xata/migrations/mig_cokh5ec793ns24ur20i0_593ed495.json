@@ -1,0 +1,12 @@
+{
+  "id": "mig_cokh5ec793ns24ur20i0",
+  "parentID": "mig_cokh5as793ns24ur20gg",
+  "checksum": "1:593ed495882ddd84b42eabd2fa784ee68b2d3bc608aa24f1131eafc6be5db24b",
+  "operations": [
+    {
+      "addTable": {
+        "table": "Seasonality"
+      }
+    }
+  ]
+}

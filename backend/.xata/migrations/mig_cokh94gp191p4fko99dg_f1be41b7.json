@@ -1,0 +1,19 @@
+{
+  "id": "mig_cokh94gp191p4fko99dg",
+  "parentID": "mig_cokh9055hs2t7tjg8jm0",
+  "checksum": "1:f1be41b79747203b8544157700d4cc5f48733503491c320047bbe8059020fa93",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "country",
+          "type": "link",
+          "link": {
+            "table": "countries"
+          }
+        },
+        "table": "Seasonality"
+      }
+    }
+  ]
+}

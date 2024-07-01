@@ -1,0 +1,16 @@
+{
+  "id": "mig_cobrcqsphnk6ug6d87t0",
+  "parentID": "mig_cobrcn1j860bgmlk7g7g",
+  "checksum": "1:aa639a155e9116b4b4f827b4ffb61a874df37aeb7257cda9d9fbb0470f887021",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "ActualValue",
+          "type": "float"
+        },
+        "table": "Data"
+      }
+    }
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "id": "mig_cobrl04phnk6ug6d8870",
+  "parentID": "mig_cobrecd5la3quq2b2f70",
+  "checksum": "1:c3fd827580262d4aafe49bb57b19ac55ba55a75dd95b77de8ef939263cb7b6f4",
+  "operations": [
+    {
+      "renameTable": {
+        "newName": "Datas",
+        "oldName": "Data"
+      }
+    }
+  ]
+}

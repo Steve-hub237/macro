@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokb4ngp191p4fko8rtg",
+  "parentID": "mig_cokav1bkvctrvtr8kfsg",
+  "checksum": "1:648e13267a865caf5e9356bde0e7a6eff3af0f24ce2844d3f9dbfc528888f6d7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "longPercentage",
+          "type": "int"
+        },
+        "table": "Retail"
+      }
+    }
+  ]
+}

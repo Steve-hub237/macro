@@ -1,0 +1,17 @@
+{
+  "id": "mig_coa02irbn5l1pu2m7mi0",
+  "parentID": "mig_coa0263bn5l1pu2m7mh0",
+  "checksum": "1:bb9792067ed81c63754c1fa730d2b1c067dab714ac8a88b33412c42f602ea7ed",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Value",
+          "type": "int",
+          "defaultValue": "18"
+        },
+        "table": "GDP"
+      }
+    }
+  ]
+}

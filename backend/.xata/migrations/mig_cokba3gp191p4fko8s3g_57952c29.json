@@ -1,0 +1,19 @@
+{
+  "id": "mig_cokba3gp191p4fko8s3g",
+  "parentID": "mig_cokb5pd5hs2t7tjg8890",
+  "checksum": "1:57952c293e2d1530b753388b4414261de65be0e6cf67b0c83333e85721c45883",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Pair",
+          "type": "link",
+          "link": {
+            "table": "Pair"
+          }
+        },
+        "table": "Score"
+      }
+    }
+  ]
+}

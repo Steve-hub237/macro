@@ -1,0 +1,7 @@
+{
+  "databaseURL": "https://Paul-qh9fcg.us-east-1.xata.sh/db/MarketMoodDb",
+  "codegen": {
+    "output": "src/xata.js",
+    "moduleType": "cjs"
+  }
+}

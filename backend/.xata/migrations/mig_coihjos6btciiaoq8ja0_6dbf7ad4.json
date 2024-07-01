@@ -1,0 +1,19 @@
+{
+  "id": "mig_coihjos6btciiaoq8ja0",
+  "parentID": "mig_coihiss6btciiaoq8j90",
+  "checksum": "1:6dbf7ad41e137a965c1afb2cd654b56f26e4cadf809a6c15ddf1921d8fbd70be",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "CountryId",
+          "type": "link",
+          "link": {
+            "table": "countries"
+          }
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}

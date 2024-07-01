@@ -1,0 +1,16 @@
+{
+  "id": "mig_cokb5il5hs2t7tjg8870",
+  "parentID": "mig_cokb5f0p191p4fko8s2g",
+  "checksum": "1:721cfe2925852407f5b081be6c4d2d7cc365b8733f492ba705f9070399ad8da7",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "bias",
+          "type": "text"
+        },
+        "table": "Score"
+      }
+    }
+  ]
+}

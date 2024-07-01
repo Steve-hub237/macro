@@ -1,0 +1,12 @@
+{
+  "id": "mig_coihf7k6btciiaoq8j5g",
+  "parentID": "mig_codaughi8ag8nohmek30",
+  "checksum": "1:34540a91cee7fc08fc2c64eaf3095a6eef4021081b0daa1c715a100dd233d3bb",
+  "operations": [
+    {
+      "addTable": {
+        "table": "COT"
+      }
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "mig_cp9hmuobnhe4hhtsrd90",
+  "parentID": "mig_cp909dgl703neuhj6kk0",
+  "checksum": "1:0b26e8ec6d72559b444f3325352e8db08931e538cda72a743153154eee4a1e25",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "importance",
+          "type": "text"
+        },
+        "table": "data"
+      }
+    }
+  ]
+}

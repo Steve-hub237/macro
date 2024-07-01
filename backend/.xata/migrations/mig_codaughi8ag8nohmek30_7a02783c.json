@@ -1,0 +1,14 @@
+{
+  "id": "mig_codaughi8ag8nohmek30",
+  "parentID": "mig_codauepi8ag8nohmek20",
+  "checksum": "1:7a02783c084f62843ec8a4a7143fec62a8768c9332a5982d3b8c4d36948d2b2e",
+  "operations": [
+    {
+      "renameColumn": {
+        "newName": "countryId",
+        "oldName": "countryI",
+        "table": "data"
+      }
+    }
+  ]
+}

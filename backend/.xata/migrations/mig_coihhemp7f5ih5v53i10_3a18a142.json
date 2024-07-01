@@ -1,0 +1,16 @@
+{
+  "id": "mig_coihhemp7f5ih5v53i10",
+  "parentID": "mig_coihgvs6btciiaoq8j6g",
+  "checksum": "1:3a18a142e2d1615960d6a1916829e7cdcd15ebc60d184e54d873900dc3b7dece",
+  "operations": [
+    {
+      "addColumn": {
+        "column": {
+          "name": "Short",
+          "type": "int"
+        },
+        "table": "COT"
+      }
+    }
+  ]
+}
